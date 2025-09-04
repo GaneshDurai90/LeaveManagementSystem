@@ -24,7 +24,7 @@ The system helps organizations streamline the process of leave request submissio
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/GaneshD90/LeaveManagementSystem.git
+git clone https://github.com/GaneshDurai90/LeaveManagementSystem.git
 cd LeaveManagementSystem
 ```
 
